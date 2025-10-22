@@ -1,6 +1,6 @@
 # 3D iPhone Showcase - Interactive 3D Model Viewer
 
-A 3D interactive iPhone showcase built with React Three Fiber and Three.js, featuring orbit controls and customizable screen content for portfolio display.
+A 3D interactive iPhone showcase built with React Three Fiber and Three.js, featuring orbit controls and customizable screen content display.
 
 ![3D iPhone Screenshot](image.png)
 
